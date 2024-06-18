@@ -1,0 +1,15 @@
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\bin\Debug\net8.0\Test.Infrastructure.Ef.deps.json
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\bin\Debug\net8.0\Test.Infrastructure.Ef.dll
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\bin\Debug\net8.0\Test.Infrastructure.Ef.pdb
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\bin\Debug\net8.0\Test.Domain.dll
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\bin\Debug\net8.0\Test.Domain.pdb
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\obj\Debug\net8.0\Test.Infrastructure.Ef.csproj.AssemblyReference.cache
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\obj\Debug\net8.0\Test.Infrastructure.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\obj\Debug\net8.0\Test.Infrastructure.Ef.AssemblyInfoInputs.cache
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\obj\Debug\net8.0\Test.Infrastructure.Ef.AssemblyInfo.cs
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\obj\Debug\net8.0\Test.Infrastructure.Ef.csproj.CoreCompileInputs.cache
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\obj\Debug\net8.0\Test.Infrastructure.Ef.csproj.CopyComplete
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\obj\Debug\net8.0\Test.Infrastructure.Ef.dll
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\obj\Debug\net8.0\refint\Test.Infrastructure.Ef.dll
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\obj\Debug\net8.0\Test.Infrastructure.Ef.pdb
+C:\Users\Altyndai\RiderProjects\Test\Test.Infrastructure.Ef\obj\Debug\net8.0\ref\Test.Infrastructure.Ef.dll

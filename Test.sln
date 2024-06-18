@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Api", "Test.Api\Test.Api.csproj", "{D3C8F79C-02A6-448E-97F3-96CCA828ADB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Infrastructure.Ef", "Test.Infrastructure.Ef\Test.Infrastructure.Ef.csproj", "{7BE95366-85C6-4756-A820-484695271FB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Domain", "Test.Domain\Test.Domain.csproj", "{BEB35CC4-C360-4F1A-9FC1-9BDF2F860B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C8F79C-02A6-448E-97F3-96CCA828ADB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C8F79C-02A6-448E-97F3-96CCA828ADB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C8F79C-02A6-448E-97F3-96CCA828ADB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C8F79C-02A6-448E-97F3-96CCA828ADB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BE95366-85C6-4756-A820-484695271FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE95366-85C6-4756-A820-484695271FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE95366-85C6-4756-A820-484695271FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE95366-85C6-4756-A820-484695271FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB35CC4-C360-4F1A-9FC1-9BDF2F860B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB35CC4-C360-4F1A-9FC1-9BDF2F860B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB35CC4-C360-4F1A-9FC1-9BDF2F860B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB35CC4-C360-4F1A-9FC1-9BDF2F860B61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
